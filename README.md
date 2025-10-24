@@ -17,12 +17,12 @@ Desarrollar ejercicios báscios de modelado para reforzar conceptos de programac
 ```bash
 Tp6-colecciones/
 ├── src/
-│   ├── core/ # Clases de dominio necesarias para el desarrollo de los ejercicios
+│   ├── core/                               # Clases de dominio necesarias para el desarrollo de los ejercicios
 │   │   └──                  
 │   │
 │   ├── app/
 │   │   └── Main.java                       # Clase con método main, menu simple para ejecución del trabajo  
-│   ├── fixtures/ # Carga de datos de prueba para los ejercicios
+│   ├── fixtures/                           # Carga de datos de prueba para los ejercicios
 │   │   └──    
 │   └── utils/
 │      ├── ContextColor.java                # Enumerado para establecer contextos para mensajes
