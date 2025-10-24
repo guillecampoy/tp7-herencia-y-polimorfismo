@@ -32,6 +32,7 @@ Tp6-colecciones/
 ```
 
 ### Clase **Main**, con menú que permite:
+
 - Acceder a cada uno de los ejercicios propuestos
 ---
 ✍️ **Autor:** Guillermo Campoy  
