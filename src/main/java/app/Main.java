@@ -41,7 +41,7 @@ public class Main {
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"1. Vehículos y herencia básica");
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"2. Figuras geométricas y métodos abstractos");
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"3. Empleados y polimorfismo");
-        UtilsColor.imprimirBloque(ContextColor.DEFAULT,"3. Animales y comportamiento sobrescrito");
+        UtilsColor.imprimirBloque(ContextColor.DEFAULT,"4. Animales y comportamiento sobrescrito");
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"0. Salir");
         UtilsColor.imprimirBloque(ContextColor.INFO,"Seleccionae una opcion: ", 'n');
     }
