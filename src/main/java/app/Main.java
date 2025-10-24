@@ -43,7 +43,7 @@ public class Main {
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"3. Empleados y polimorfismo");
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"3. Animales y comportamiento sobrescrito");
         UtilsColor.imprimirBloque(ContextColor.DEFAULT,"0. Salir");
-        UtilsColor.imprimirBloque(ContextColor.INFO,"Seleccionae una opcion", 'n');
+        UtilsColor.imprimirBloque(ContextColor.INFO,"Seleccionae una opcion: ", 'n');
     }
 
     private static int leerOpcion () {
